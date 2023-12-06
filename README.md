@@ -2,14 +2,14 @@
 
 ## Javascript
 using:
-express
-socket.io
-leaflet
-leaflet.rotatedMarker.js
+- express
+- socket.io
+- leaflet
+- leaflet.rotatedMarker.js
 
 ## install
-install node.js
-put udp.lua and js folder in ...\Saved Games\DCS\Scripts\Hooks
-in js folder run 'npm instal' then 'npm start'
-open js/index.html file
-run some mission
+- install node.js
+- put udp.lua and js folder in ...\Saved Games\DCS\Scripts\Hooks
+- in js folder run 'npm instal' then 'npm start'
+- open js/index.html file
+- run some mission
